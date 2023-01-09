@@ -1,0 +1,8 @@
+This is a secrert message decode it!
+
+Hint 1: https://en.wikipedia.org/wiki/List_of_file_signatures
+Hint 2: https://imhex.werwolv.net/
+Hint 3: https://github.com/WerWolv/ImHex-Patterns
+
+
+UUwEBRQAAAAIAFJnZFVhZeTRPwAAAEIAAAALAAAAbWVzc2FnZS50eHQNyNsNgCAMBdBV7gSO4g4VqjTpwxQfYXv4OsnZ44g64JFGCv44QaWE3Sq9cQX5eJr4BWPy5fkqxLGu44/Uuk1QSwECPwAUAAAACABSZ2RVYWXk0T8AAABCAAAACwAkAAAAAAAAACAAAAAAAAAAbWVzc2FnZS50eHQKACAAAAAAAAEAGABptmEPd/DYAWn9H3t38NgBspJWD3fw2AFQSwUGAAAAAAEAAQBdAAAAaAAAAAAA
